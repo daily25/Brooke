@@ -2136,7 +2136,7 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`Brooke's Classroom is running on http://localhost:${PORT}`);
   console.log(`Teacher view: http://localhost:${PORT}/teacher`);
   console.log(`Display view: http://localhost:${PORT}/display`);
