@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Student Profile - Brooke's Classroom</title>
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('brooke_theme');
+          if (theme === 'light' || theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', theme);
+          }
+        } catch {}
+      })();
+    </script>
+    <script>
+      // Enable meshopt support for GLB files that require EXT_meshopt_compression.
+      self.ModelViewerElement = self.ModelViewerElement || {};
+      self.ModelViewerElement.meshoptDecoderLocation =
+        self.ModelViewerElement.meshoptDecoderLocation ||
+        'https://unpkg.com/meshoptimizer@0.20.0/meshopt_decoder.module.js';
+    </script>
+    <link rel="stylesheet" href="/styles.css">
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+  </head>
+  <body class="student-page-body">
+    <main class="student-page-shell">
+      <header id="studentHeader" class="display-head">
+        <div>
+          <p class="eyebrow">Student Character Profile</p>
+          <div class="student-title-row">
+            <a id="studentBackToDisplay" class="student-back-link ghost-button" href="/display" aria-label="Back to display">&larr;</a>
+            <h1 id="studentClassName">Brooke's Classroom</h1>
+          </div>
+          <p id="studentPageSubtitle" class="metric-sub">Live student profile</p>
+        </div>
+        <div class="display-controls">
+          <p id="studentConnection" class="pill offline">Connecting</p>
+        </div>
+      </header>
+
+      <section id="studentAccessGate" class="panel student-access-gate hidden">
+        <h2>Enter Student Access Code</h2>
+        <p class="mini-empty">Ask your teacher for your 5-letter code.</p>
+        <form id="studentAccessForm" class="inline-form">
+          <input
+            id="studentAccessCodeInput"
+            type="text"
+            maxlength="5"
+            placeholder="ABCDE"
+            pattern="[A-Za-z]{5}"
+            autocomplete="off"
+            required
+          >
+          <button type="submit" class="primary-button">Open Profile</button>
+        </form>
+        <p id="studentAccessMessage" class="status-line"></p>
+      </section>
+
+      <section id="studentProfileSection" class="student-profile-layout hidden">
+        <aside id="studentAvatarPanel" class="panel student-avatar-panel">
+          <div id="studentAvatarStage" class="character-stage"></div>
+          <div class="character-copy">
+            <h2 id="studentAvatarName">Student</h2>
+            <p id="studentAvatarMeta" class="metric-sub">Level 1</p>
+            <div id="studentModelControls" class="model-controls hidden">
+              <button id="modelSpinToggleBtn" class="secondary-button" type="button">Spin: On</button>
+              <button id="modelPlayBtn" class="secondary-button" type="button">Play Move</button>
+              <button id="modelPauseBtn" class="secondary-button" type="button">Pause Move</button>
+            </div>
+            <p id="modelControlHint" class="metric-sub model-control-hint hidden"></p>
+          </div>
+        </aside>
+
+        <section class="student-center-column">
+          <article id="studentStatsPanel" class="panel student-panel">
+            <h2>Stats</h2>
+            <p id="studentRankLine" class="metric-sub">Rank loading</p>
+            <div id="studentStatsGrid" class="student-metric-grid"></div>
+          </article>
+
+          <article id="studentSkillPanel" class="panel student-panel">
+            <h2>Skill Totals</h2>
+            <div id="studentSkillTotals" class="student-skill-grid"></div>
+          </article>
+        </section>
+
+        <section class="student-right-column">
+          <article id="studentBadgesPanel" class="panel student-panel">
+            <h2>Badges And Streak</h2>
+            <div id="studentBadgeStrip" class="student-badge-strip"></div>
+            <p id="studentStreakLine" class="metric-sub"></p>
+          </article>
+
+          <article id="studentShoutoutPanel" class="panel student-panel">
+            <h2>Shoutout A Classmate</h2>
+            <form id="studentShoutoutForm" class="stack-form">
+              <select id="studentShoutoutTargetInput" required></select>
+              <textarea id="studentShoutoutMessageInput" maxlength="240" rows="3" placeholder="Why do they deserve a shoutout?" required></textarea>
+              <button type="submit" class="primary-button">Send To Teacher</button>
+            </form>
+            <p id="studentShoutoutNotice" class="status-line"></p>
+            <div id="studentShoutoutHistory" class="history-list"></div>
+          </article>
+
+          <article id="studentActivityPanel" class="panel student-panel">
+            <h2>Recent Activity</h2>
+            <div id="studentRecentActivity" class="events-feed"></div>
+          </article>
+        </section>
+      </section>
+    </main>
+
+    <footer id="studentFooter" class="view-footer">
+      <nav class="view-footer-nav" aria-label="Quick navigation">
+        <a class="view-nav-link" href="/display">Home</a>
+        <a class="view-nav-link" href="/display-store">Store</a>
+        <a class="view-nav-link" href="/display-leaderboards">Leaderboards</a>
+      </nav>
+    </footer>
+
+    <script type="module" src="/student.js"></script>
+  </body>
+</html>

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Store View - Brooke's Classroom</title>
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('brooke_theme');
+          if (theme === 'light' || theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', theme);
+          }
+        } catch {}
+      })();
+    </script>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body class="display-body">
+    <main class="display-shell">
+      <header id="displayHeader" class="display-head">
+        <div>
+          <p class="eyebrow">Live Classroom Board</p>
+          <h1 id="displayClassName">Brooke's Classroom</h1>
+          <p id="displayStoreLine" class="metric-sub">Store only view</p>
+        </div>
+        <div class="display-controls">
+          <p id="displayConnection" class="pill offline">Connecting</p>
+          <button id="themeToggleBtn" class="ghost-button" type="button">Light Mode</button>
+        </div>
+      </header>
+
+      <section class="display-stack-layout">
+        <section id="storeItemsSection" class="panel display-panel">
+          <h2>Store Items</h2>
+          <div id="storeOnlyFeed" class="events-feed display-scroll-feed"></div>
+        </section>
+      </section>
+    </main>
+
+    <footer id="displayFooter" class="view-footer">
+      <nav class="view-footer-nav" aria-label="Quick navigation">
+        <a class="view-nav-link" href="/display">Home</a>
+        <a class="view-nav-link" href="/display-store" aria-current="page">Store</a>
+        <a class="view-nav-link" href="/display-leaderboards">Leaderboards</a>
+      </nav>
+    </footer>
+
+    <script type="module" src="/display-store.js"></script>
+  </body>
+</html>

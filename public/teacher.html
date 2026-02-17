@@ -1,0 +1,272 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Teacher Controls - Brooke's Classroom</title>
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('brooke_theme');
+          if (theme === 'light' || theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', theme);
+          }
+        } catch {}
+      })();
+    </script>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body class="teacher-body">
+    <main class="teacher-shell">
+      <header class="top-bar">
+        <div>
+          <p class="eyebrow">Teacher Console</p>
+          <h1 id="classroomTitle">Brooke's Classroom</h1>
+        </div>
+        <div class="top-bar-controls">
+          <p id="connectionState" class="pill offline">Connecting</p>
+          <button id="themeToggleBtn" class="ghost-button" type="button">Light Mode</button>
+        </div>
+      </header>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>Class Setup</h2>
+        <form id="classForm" class="inline-form">
+          <input id="classNameInput" name="className" type="text" placeholder="Class name" maxlength="80" required>
+          <button type="submit" class="primary-button">Save</button>
+        </form>
+      </section>
+
+      <section class="bento-grid teacher-view-section" id="bentoMetrics" data-teacher-tab="settings">
+        <article class="panel bento-card">
+          <p class="metric-label">Season Countdown</p>
+          <p id="metricSeasonCountdown" class="metric-value">0 days left</p>
+          <p id="metricSeasonProgress" class="metric-sub">0% complete</p>
+        </article>
+        <article class="panel bento-card">
+          <p class="metric-label">Season Status</p>
+          <p id="metricSeasonStatus" class="metric-value">Inactive</p>
+          <p id="metricSeasonRange" class="metric-sub">-</p>
+        </article>
+        <article class="panel bento-card">
+          <p class="metric-label">Class Streak Health</p>
+          <p id="metricStreakHealth" class="metric-value">0 avg</p>
+          <p id="metricTopStreak" class="metric-sub">Top streak -</p>
+        </article>
+        <article class="panel bento-card">
+          <p class="metric-label">Movement Spotlight</p>
+          <p id="metricMovement" class="metric-value">No movement yet</p>
+          <p id="metricMovementSub" class="metric-sub">Award points to start</p>
+        </article>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>Season And Display Controls</h2>
+        <form id="seasonStartForm" class="season-form">
+          <input id="seasonNameInput" type="text" maxlength="48" placeholder="Season name">
+          <input id="seasonLengthInput" type="number" min="7" max="120" step="1" value="42">
+          <button type="submit" class="primary-button">Start Season</button>
+        </form>
+        <div class="control-row">
+          <button type="button" id="closeSeasonBtn" class="secondary-button">Close Season</button>
+          <button type="button" id="closeDayBtn" class="secondary-button">Close Day</button>
+        </div>
+        <div class="season-form leaderboard-row">
+          <select id="leaderboardModeInput">
+            <option value="top">Top Leaderboard</option>
+            <option value="relative">Relative Leaderboard</option>
+            <option value="movement">Movement Leaderboard</option>
+          </select>
+          <select id="leaderboardFocusInput"></select>
+          <button type="button" id="saveLeaderboardModeBtn" class="primary-button">Sync Mode</button>
+        </div>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>View Visibility Controls</h2>
+        <p class="mini-empty">Enable or disable what is shown on display boards and student pages in real time.</p>
+        <div class="view-settings-columns">
+          <div>
+            <h3>Display Views</h3>
+            <div id="displayVisibilityList" class="toggle-list"></div>
+          </div>
+          <div>
+            <h3>Student Pages</h3>
+            <div id="studentVisibilityList" class="toggle-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>Add Student</h2>
+        <form id="studentForm" class="stack-form">
+          <label>
+            Student Name
+            <input id="studentNameInput" name="studentName" type="text" placeholder="Add full name" maxlength="48" required>
+          </label>
+          <label>
+            Student Photo
+            <input id="studentPhotoInput" name="studentPhoto" type="file" accept="image/*">
+          </label>
+          <button type="submit" class="primary-button">Add Student</button>
+        </form>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="home">
+        <div class="panel-heading">
+          <h2>Students</h2>
+          <p id="studentCount">0 students</p>
+        </div>
+        <div id="studentsGrid" class="students-grid"></div>
+        <p id="studentsEmpty" class="mini-empty">Add students to begin tracking points.</p>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <div class="panel-heading">
+          <h2>Student Access Codes</h2>
+          <p class="mini-empty">Share each 5-letter code with the right student.</p>
+        </div>
+        <div id="accessCodesList" class="history-list"></div>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="home">
+        <div class="panel-heading">
+          <h2>Shoutout Inbox</h2>
+          <p id="shoutoutCount">0 pending</p>
+        </div>
+        <div class="inline-form">
+          <select id="shoutoutFilterInput">
+            <option value="pending">Pending</option>
+            <option value="approved">Approved</option>
+            <option value="archived">Archived</option>
+            <option value="all">All</option>
+          </select>
+        </div>
+        <div id="shoutoutQueue" class="history-list"></div>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>Skill Library</h2>
+        <form id="skillForm" class="skill-form">
+          <select id="skillTypeInput" name="skillType">
+            <option value="positive">Positive</option>
+            <option value="negative">Needs Work</option>
+          </select>
+          <input id="skillLabelInput" name="skillLabel" type="text" maxlength="36" placeholder="Skill name" required>
+          <input id="skillPointsInput" name="skillPoints" type="number" min="-10" max="10" step="1" placeholder="Points" required>
+          <input id="skillIconInput" name="skillIcon" type="text" maxlength="4" placeholder="Icon">
+          <button type="submit" class="primary-button">Add Skill</button>
+        </form>
+        <div class="skill-columns">
+          <div>
+            <h3>Positive</h3>
+            <div id="positiveSkillList" class="token-list"></div>
+          </div>
+          <div>
+            <h3>Needs Work</h3>
+            <div id="negativeSkillList" class="token-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="store">
+        <h2>Class Store</h2>
+        <form id="storeForm" class="store-form">
+          <input id="storeNameInput" type="text" maxlength="48" placeholder="Item name" required>
+          <input id="storeCostInput" type="number" min="1" max="999" step="1" placeholder="Cost" required>
+          <input id="storeStockInput" type="number" min="1" max="999" step="1" placeholder="Stock" required>
+          <select id="storeTypeInput">
+            <option value="standard">Standard Item</option>
+            <option value="streak_freeze">Streak Freeze</option>
+          </select>
+          <input id="storeFreezeAmountInput" type="number" min="1" max="10" step="1" placeholder="Freeze qty" value="1">
+          <button type="submit" class="primary-button">Add Item</button>
+        </form>
+        <div id="storeList" class="store-list"></div>
+      </section>
+    </main>
+
+    <footer class="teacher-footer">
+      <nav class="teacher-footer-nav" aria-label="Teacher tabs">
+        <button type="button" class="teacher-tab-button active" data-teacher-tab-btn="home" aria-pressed="true">Home</button>
+        <button type="button" class="teacher-tab-button" data-teacher-tab-btn="store" aria-pressed="false">Store</button>
+        <button type="button" class="teacher-tab-button" data-teacher-tab-btn="settings" aria-pressed="false">Settings</button>
+      </nav>
+    </footer>
+
+    <div id="studentPanelBackdrop" class="sheet-backdrop hidden"></div>
+    <aside id="studentPanel" class="student-sheet" aria-hidden="true">
+      <header class="sheet-header">
+        <button id="closeSheetBtn" class="ghost-button" type="button">Close</button>
+        <div class="sheet-student">
+          <div
+            id="sheetStudentAvatar"
+            class="sheet-avatar-button"
+            role="button"
+            tabindex="0"
+            aria-label="Update student photo"
+            title="Tap to update photo"
+          ></div>
+          <div>
+            <h2 id="sheetStudentName"></h2>
+            <p id="sheetStudentPoints"></p>
+          </div>
+        </div>
+        <button id="removeStudentBtn" class="ghost-button danger" type="button">Remove</button>
+      </header>
+
+      <nav class="sheet-tabs" id="sheetTabs">
+        <button type="button" class="tab-button active" data-tab="positive">Positive</button>
+        <button type="button" class="tab-button" data-tab="negative">Needs Work</button>
+        <button type="button" class="tab-button" data-tab="season">Season</button>
+        <button type="button" class="tab-button" data-tab="store">Store</button>
+        <button type="button" class="tab-button" data-tab="history">History</button>
+      </nav>
+
+      <section class="sheet-section" id="sheetBehaviorSection">
+        <h3>Award Skill</h3>
+        <div id="sheetSkillButtons" class="skill-button-grid"></div>
+        <h3>Add New Skill</h3>
+        <form id="quickSkillForm" class="quick-skill-form">
+          <input id="quickSkillLabelInput" type="text" maxlength="36" placeholder="Skill name" required>
+          <input id="quickSkillPointsInput" type="number" min="-10" max="10" step="1" placeholder="Points" required>
+          <input id="quickSkillIconInput" type="text" maxlength="4" placeholder="Icon">
+          <button type="submit" class="secondary-button">Save Skill</button>
+        </form>
+        <h3>Quick Adjust</h3>
+        <div id="quickAdjustRow" class="quick-adjust-row">
+          <button type="button" class="secondary-button" data-adjust-delta="1" data-adjust-reason="Quick bonus">+1 Bonus</button>
+          <button type="button" class="secondary-button" data-adjust-delta="-1" data-adjust-reason="Quick deduction">-1 Deduction</button>
+          <button type="button" class="secondary-button" data-adjust-delta="3" data-adjust-reason="Superstar">+3 Superstar</button>
+        </div>
+      </section>
+
+      <section class="sheet-section hidden" id="sheetSeasonSection">
+        <h3>Season Progress</h3>
+        <div id="seasonProgressBar" class="progress-wrap"><div id="seasonProgressFill" class="progress-fill"></div></div>
+        <p id="seasonProgressText" class="mini-empty">No progress yet.</p>
+        <p id="sheetStudentStreak" class="mini-empty">Streak -</p>
+        <div class="control-row">
+          <button type="button" id="streakCheckinBtn" class="secondary-button">Check In</button>
+          <button type="button" id="useFreezeBtn" class="secondary-button">Use Freeze</button>
+        </div>
+        <div id="sheetRewardTrack" class="history-list"></div>
+      </section>
+
+      <section class="sheet-section hidden" id="sheetStoreSection">
+        <h3>Redeem Store</h3>
+        <div id="sheetStoreList" class="store-list"></div>
+      </section>
+
+      <section class="sheet-section hidden" id="sheetHistorySection">
+        <h3>Recent Activity</h3>
+        <div id="sheetHistory" class="history-list"></div>
+      </section>
+
+      <p id="teacherMessage" class="status-line"></p>
+    </aside>
+    <input id="sheetStudentPhotoPicker" class="hidden" type="file" accept="image/*">
+
+    <script type="module" src="/teacher.js"></script>
+  </body>
+</html>

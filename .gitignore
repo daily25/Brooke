@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Runtime logs and temp artifacts
+*.log
+*.err.log
+.debug-server*.log
+.debug-server*.err.log
+.dev-server*.log
+.dev-server*.err.log
+.tmp-check*.log
+.tmp-check*.err.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+
+# Exclude legacy large model file (unused by current sample state)
+public/models/oliver.glb

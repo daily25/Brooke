@@ -1,0 +1,2823 @@
+{
+  "className": "5/6 Booyah Kacha- Demo",
+  "viewSettings": {
+    "display": {
+      "showHeader": true,
+      "showConnectionStatus": true,
+      "showThemeToggle": true,
+      "showSoundToggle": true,
+      "showClassPoints": true,
+      "showRecentActivity": true,
+      "showStoreItems": true,
+      "showLeaderboardTopPoints": true,
+      "showLeaderboardMovement": true,
+      "showLeaderboardStreak": true,
+      "showLeaderboardLevel": true,
+      "showFooterNav": true,
+      "showEventOverlay": true
+    },
+    "student": {
+      "showHeader": true,
+      "showConnectionStatus": true,
+      "showAvatarPanel": true,
+      "showModelControls": true,
+      "showStats": true,
+      "showSkillTotals": true,
+      "showBadgesAndStreak": true,
+      "showShoutoutClassmate": true,
+      "showRecentActivity": true,
+      "showFooterNav": true
+    }
+  },
+  "students": [
+    {
+      "id": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "name": "Mia Torres",
+      "accessCode": "HQXDS",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%233b82f6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%230ea5e9'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23e2e8f0'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23ffd8b5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EMT%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 63,
+      "xpTotal": 630,
+      "seasonXp": 506,
+      "level": 7,
+      "streakCurrent": 23,
+      "streakBest": 23,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 2,
+      "badges": [
+        "starter",
+        "consistent",
+        "momentum"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": true,
+      "createdAt": "2026-02-13T11:45:28.199Z"
+    },
+    {
+      "id": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "name": "Liam Patel",
+      "accessCode": "UPKRM",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2322c55e'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%2310b981'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dbeafe'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f9cda5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%234b5563'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ELP%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 32,
+      "xpTotal": 548,
+      "seasonXp": 438,
+      "level": 6,
+      "streakCurrent": 18,
+      "streakBest": 19,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent",
+        "momentum"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-12T11:45:28.199Z"
+    },
+    {
+      "id": "stu_28a8d943-4133-474c-a81c-b9833e2d44cc",
+      "name": "Ava Brooks",
+      "accessCode": "EUQNQ",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23f97316'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23ef4444'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dcfce7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f2be94'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%2378350f'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EAB%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 44,
+      "xpTotal": 456,
+      "seasonXp": 355,
+      "level": 6,
+      "streakCurrent": 16,
+      "streakBest": 18,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-11T11:45:28.199Z"
+    },
+    {
+      "id": "stu_5bca21dc-1ede-4dfb-8361-37fe5ea7f82f",
+      "name": "Noah Kim",
+      "accessCode": "PTQLM",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23a855f7'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%236366f1'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23fef3c7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23e7b387'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%230f172a'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ENK%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 41,
+      "xpTotal": 434,
+      "seasonXp": 340,
+      "level": 5,
+      "streakCurrent": 12,
+      "streakBest": 12,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-10T11:45:28.199Z"
+    },
+    {
+      "id": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+      "name": "Ella Nguyen",
+      "accessCode": "JQJRD",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2314b8a6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%2306b6d4'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23e2e8f0'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23ffd8b5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EEN%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 39,
+      "xpTotal": 422,
+      "seasonXp": 333,
+      "level": 5,
+      "streakCurrent": 10,
+      "streakBest": 11,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 2,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-09T11:45:28.199Z"
+    },
+    {
+      "id": "stu_065840df-bd82-4a0d-9f77-ad885e47442b",
+      "name": "Ethan Rivera",
+      "accessCode": "UQHFW",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23eab308'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23f59e0b'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dbeafe'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f9cda5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%234b5563'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EER%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 35,
+      "xpTotal": 350,
+      "seasonXp": 273,
+      "level": 5,
+      "streakCurrent": 9,
+      "streakBest": 11,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-08T11:45:28.199Z"
+    },
+    {
+      "id": "stu_aab44dd4-0a62-4b67-b50d-4bbfa0a92d1d",
+      "name": "Sofia Clark",
+      "accessCode": "TKMHK",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23ef4444'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23f43f5e'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dcfce7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f2be94'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%2378350f'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ESC%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 32,
+      "xpTotal": 328,
+      "seasonXp": 255,
+      "level": 5,
+      "streakCurrent": 8,
+      "streakBest": 8,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-07T11:45:28.199Z"
+    },
+    {
+      "id": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "name": "Mason Wright",
+      "accessCode": "HDAPT",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%230ea5e9'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%230284c7'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23fef3c7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23e7b387'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%230f172a'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EMW%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 12,
+      "xpTotal": 316,
+      "seasonXp": 246,
+      "level": 4,
+      "streakCurrent": 7,
+      "streakBest": 8,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-06T11:45:28.199Z"
+    },
+    {
+      "id": "stu_41c6442c-11d4-4021-8a0d-949e0b3c3ffb",
+      "name": "Isla Bennett",
+      "accessCode": "DTRSW",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%238b5cf6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%237c3aed'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23e2e8f0'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23ffd8b5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EIB%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 28,
+      "xpTotal": 304,
+      "seasonXp": 237,
+      "level": 4,
+      "streakCurrent": 6,
+      "streakBest": 8,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 2,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-05T11:45:28.199Z"
+    },
+    {
+      "id": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "name": "Lucas Hall",
+      "accessCode": "RHJHN",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2310b981'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23059669'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dbeafe'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f9cda5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%234b5563'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ELH%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 26,
+      "xpTotal": 292,
+      "seasonXp": 227,
+      "level": 4,
+      "streakCurrent": 6,
+      "streakBest": 6,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-04T11:45:28.199Z"
+    },
+    {
+      "id": "stu_6722c2ef-2a6a-4b6a-8fd5-fa9d477525e1",
+      "name": "Zoe Carter",
+      "accessCode": "CGMHB",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%233b82f6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%230ea5e9'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dcfce7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f2be94'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%2378350f'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EZC%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 24,
+      "xpTotal": 240,
+      "seasonXp": 187,
+      "level": 4,
+      "streakCurrent": 5,
+      "streakBest": 6,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-03T11:45:28.199Z"
+    },
+    {
+      "id": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "name": "Jackson Reed",
+      "accessCode": "UDXMN",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2322c55e'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%2310b981'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23fef3c7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23e7b387'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%230f172a'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EJR%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 23,
+      "xpTotal": 238,
+      "seasonXp": 187,
+      "level": 4,
+      "streakCurrent": 5,
+      "streakBest": 7,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-02T11:45:28.199Z"
+    },
+    {
+      "id": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "name": "Harper Lopez",
+      "accessCode": "APTBP",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23f97316'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23ef4444'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23e2e8f0'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23ffd8b5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EHL%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 22,
+      "xpTotal": 236,
+      "seasonXp": 188,
+      "level": 4,
+      "streakCurrent": 4,
+      "streakBest": 4,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-01T11:45:28.199Z"
+    },
+    {
+      "id": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "name": "Owen Foster",
+      "accessCode": "LMWZV",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23a855f7'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%236366f1'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dbeafe'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f9cda5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%234b5563'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EOF%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 18,
+      "xpTotal": 304,
+      "seasonXp": 259,
+      "level": 4,
+      "streakCurrent": 4,
+      "streakBest": 5,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-31T11:45:28.199Z"
+    },
+    {
+      "id": "stu_610d7516-bab7-4985-a162-33a57a08d14f",
+      "name": "Layla James",
+      "accessCode": "YVGNL",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2314b8a6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%2306b6d4'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dcfce7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f2be94'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%2378350f'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ELJ%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 16,
+      "xpTotal": 192,
+      "seasonXp": 149,
+      "level": 3,
+      "streakCurrent": 3,
+      "streakBest": 5,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-30T11:45:28.199Z"
+    },
+    {
+      "id": "stu_0cb06b18-0eb3-43ae-a86d-dc4d4b1195bb",
+      "name": "Caleb Stone",
+      "accessCode": "XXRFS",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23eab308'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23f59e0b'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23fef3c7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23e7b387'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%230f172a'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ECS%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 15,
+      "xpTotal": 150,
+      "seasonXp": 117,
+      "level": 3,
+      "streakCurrent": 3,
+      "streakBest": 3,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-29T11:45:28.199Z"
+    },
+    {
+      "id": "stu_e3c59e6f-c5ee-40e5-97c6-bf762d448a95",
+      "name": "Nora Diaz",
+      "accessCode": "WXRFT",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%23ef4444'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23f43f5e'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23e2e8f0'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23ffd8b5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3END%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 13,
+      "xpTotal": 138,
+      "seasonXp": 107,
+      "level": 3,
+      "streakCurrent": 2,
+      "streakBest": 3,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 2,
+      "badges": [
+        "starter"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-28T11:45:28.199Z"
+    },
+    {
+      "id": "stu_3be8a50d-f085-47db-8547-942226395c4c",
+      "name": "Aiden Price",
+      "accessCode": "AJYTB",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%230ea5e9'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%230284c7'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dbeafe'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f9cda5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%234b5563'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EAP%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 11,
+      "xpTotal": 126,
+      "seasonXp": 98,
+      "level": 3,
+      "streakCurrent": 2,
+      "streakBest": 4,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-27T11:45:28.199Z"
+    },
+    {
+      "id": "stu_f98a087a-722d-430f-8c8f-79d1a4de6f75",
+      "name": "Grace Ellis",
+      "accessCode": "NDWCE",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%238b5cf6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%237c3aed'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dcfce7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f2be94'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%2378350f'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EGE%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 9,
+      "xpTotal": 114,
+      "seasonXp": 88,
+      "level": 2,
+      "streakCurrent": 2,
+      "streakBest": 2,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-26T11:45:28.199Z"
+    },
+    {
+      "id": "stu_57fd8931-431f-471f-ba8b-479e0eede560",
+      "name": "Henry Cole",
+      "accessCode": "YATGL",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2310b981'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%23059669'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23fef3c7'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23e7b387'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%230f172a'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EHC%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 8,
+      "xpTotal": 112,
+      "seasonXp": 87,
+      "level": 2,
+      "streakCurrent": 1,
+      "streakBest": 2,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 0,
+      "badges": [
+        "starter"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-25T11:45:28.199Z"
+    },
+    {
+      "id": "stu_560adcd8-962c-409b-936c-f42cc76808c5",
+      "name": "Ruby Park",
+      "accessCode": "QGDTX",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%233b82f6'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%230ea5e9'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23e2e8f0'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23ffd8b5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3ERP%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 6,
+      "xpTotal": 60,
+      "seasonXp": 46,
+      "level": 2,
+      "streakCurrent": 1,
+      "streakBest": 3,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 2,
+      "badges": [],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-24T11:45:28.199Z"
+    },
+    {
+      "id": "stu_7806bde3-9770-4590-91e7-138a91c6b685",
+      "name": "Wyatt Bell",
+      "accessCode": "MJHDS",
+      "photo": "data:image/svg+xml;utf8,%0A%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20120%20120'%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'1'%20y2%3D'1'%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'0%25'%20stop-color%3D'%2322c55e'%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D'100%25'%20stop-color%3D'%2310b981'%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D'120'%20height%3D'120'%20rx%3D'24'%20fill%3D'url(%23g)'%2F%3E%0A%20%20%3Cellipse%20cx%3D'60'%20cy%3D'104'%20rx%3D'34'%20ry%3D'20'%20fill%3D'%23dbeafe'%20opacity%3D'0.95'%2F%3E%0A%20%20%3Ccircle%20cx%3D'60'%20cy%3D'54'%20r%3D'25'%20fill%3D'%23f9cda5'%2F%3E%0A%20%20%3Cpath%20d%3D'M35%2052c2-18%2015-29%2025-29s24%2010%2025%2029c-5-6-14-11-25-11s-20%205-25%2011z'%20fill%3D'%234b5563'%2F%3E%0A%20%20%3Ccircle%20cx%3D'50'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Ccircle%20cx%3D'70'%20cy%3D'55'%20r%3D'2.6'%20fill%3D'%231f2937'%2F%3E%0A%20%20%3Cpath%20d%3D'M52%2066c4%204%2012%204%2016%200'%20fill%3D'none'%20stroke%3D'%237f1d1d'%20stroke-width%3D'2.3'%20stroke-linecap%3D'round'%2F%3E%0A%20%20%3Crect%20x%3D'38'%20y%3D'82'%20width%3D'44'%20height%3D'20'%20rx%3D'10'%20fill%3D'rgba(15%2C23%2C42%2C0.22)'%2F%3E%0A%20%20%3Ctext%20x%3D'60'%20y%3D'97'%20text-anchor%3D'middle'%20fill%3D'%230f172a'%20font-family%3D'Arial%2C%20sans-serif'%20font-weight%3D'700'%20font-size%3D'12'%3EWB%3C%2Ftext%3E%0A%3C%2Fsvg%3E",
+      "avatarModel": "",
+      "points": 5,
+      "xpTotal": 58,
+      "seasonXp": 45,
+      "level": 2,
+      "streakCurrent": 1,
+      "streakBest": 1,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-01-23T11:45:28.199Z"
+    },
+    {
+      "id": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "name": "Oliver",
+      "accessCode": "OLIVR",
+      "photo": "",
+      "avatarModel": "/models/oliversmall.glb",
+      "points": 37,
+      "xpTotal": 380,
+      "seasonXp": 305,
+      "level": 5,
+      "streakCurrent": 9,
+      "streakBest": 11,
+      "streakLastActiveDate": "2026-02-15",
+      "streakFreezes": 1,
+      "badges": [
+        "starter",
+        "consistent"
+      ],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-15T14:00:00.000Z"
+    },
+    {
+      "id": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "name": "Brian Moniboobiehad",
+      "accessCode": "TRJRJ",
+      "photo": "data:image/jpeg;base64,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",
+      "avatarModel": "",
+      "points": -10,
+      "xpTotal": 0,
+      "seasonXp": 0,
+      "level": 1,
+      "streakCurrent": 0,
+      "streakBest": 0,
+      "streakLastActiveDate": "",
+      "streakFreezes": 1,
+      "badges": [],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-15T14:36:23.592Z"
+    },
+    {
+      "id": "stu_7ad21a3e-dc42-429e-8c1c-c0f2af3c2c28",
+      "name": "Miles",
+      "accessCode": "MILES",
+      "photo": "",
+      "avatarModel": "/models/miles1.glb",
+      "points": 0,
+      "xpTotal": 0,
+      "seasonXp": 0,
+      "level": 1,
+      "streakCurrent": 0,
+      "streakBest": 0,
+      "streakLastActiveDate": "",
+      "streakFreezes": 1,
+      "badges": [],
+      "weeklyDelta": 0,
+      "verifiedStatus": false,
+      "createdAt": "2026-02-16T04:17:08.772Z"
+    }
+  ],
+  "skills": {
+    "positive": [
+      {
+        "id": "pos_teamwork",
+        "label": "Teamwork",
+        "icon": "TW",
+        "points": 1
+      },
+      {
+        "id": "pos_prepared",
+        "label": "Prepared",
+        "icon": "PR",
+        "points": 1
+      },
+      {
+        "id": "pos_participation",
+        "label": "Participation",
+        "icon": "PA",
+        "points": 1
+      },
+      {
+        "id": "pos_focus",
+        "label": "On Task",
+        "icon": "FT",
+        "points": 1
+      },
+      {
+        "id": "pos_kindness",
+        "label": "Kindness",
+        "icon": "KD",
+        "points": 1
+      },
+      {
+        "id": "pos_leadership",
+        "label": "Leadership",
+        "icon": "LD",
+        "points": 2
+      }
+    ],
+    "negative": [
+      {
+        "id": "neg_off_task",
+        "label": "Off Task",
+        "icon": "OT",
+        "points": -1
+      },
+      {
+        "id": "neg_disruption",
+        "label": "Disruptive",
+        "icon": "DP",
+        "points": -1
+      },
+      {
+        "id": "neg_late_work",
+        "label": "Late Work",
+        "icon": "LW",
+        "points": -1
+      },
+      {
+        "id": "neg_unprepared",
+        "label": "Not Prepared",
+        "icon": "NP",
+        "points": -1
+      },
+      {
+        "id": "neg_unsafe",
+        "label": "Unsafe Choice",
+        "icon": "US",
+        "points": -2
+      }
+    ]
+  },
+  "storeItems": [
+    {
+      "id": "item_8a1b2aeb-0862-41f4-8f30-39f0a218ee9d",
+      "name": "Homework Pass",
+      "type": "standard",
+      "cost": 40,
+      "stock": 8,
+      "freezeAmount": 1
+    },
+    {
+      "id": "item_140f7702-47a3-4e5e-ae02-eb96735ceaf3",
+      "name": "Choose Music (15 min)",
+      "type": "standard",
+      "cost": 30,
+      "stock": 12,
+      "freezeAmount": 1
+    },
+    {
+      "id": "item_9c9c5f39-5e71-4511-b3de-e53604edc978",
+      "name": "Beanbag Seat",
+      "type": "standard",
+      "cost": 18,
+      "stock": 9,
+      "freezeAmount": 1
+    },
+    {
+      "id": "item_441d47c5-1ab6-4400-a17f-9b44d7484a1e",
+      "name": "Snack Coupon",
+      "type": "standard",
+      "cost": 22,
+      "stock": 19,
+      "freezeAmount": 1
+    },
+    {
+      "id": "item_a16fc400-64f8-468c-90db-2ff7bd80d15c",
+      "name": "Streak Freeze",
+      "type": "streak_freeze",
+      "cost": 25,
+      "stock": 999,
+      "freezeAmount": 1
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_f5086f68-22bd-42c9-bab6-b5336d4a5baa",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:26.396Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_63444fa0-41d2-4678-9712-6fad15a34606",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:26.217Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_99e67379-f3ce-47a5-a37b-b55f1b71bb2a",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:26.044Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_36b3e821-b002-4218-9c6c-0b7985a90054",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:25.879Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_5388cdb7-ae1d-46e4-9d37-ad36962c16f5",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:25.714Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_497adbfa-9f07-49b5-b873-c883f88a374a",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:25.534Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_c74691f6-b888-4fe7-8246-491239396559",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:25.354Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_00f88673-2731-4ecc-b7e6-46078464f052",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:25.182Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_01b97f7d-638d-423a-a853-c4674aaae217",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:24.935Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_2e1e5cb3-ef57-420f-b9cc-f069f65821c2",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:24.050Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 1,
+        "streakCurrent": 0,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_ed730a11-07f2-46d5-b53c-85f9e6049736",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 3,
+      "reason": "Superstar",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:05.924Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 30,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_1a42e1ee-7e05-400e-95d1-7d9511f760b7",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:04.024Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_496ff178-c30c-4165-bf25-fed2197a269f",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:02.518Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_66636727-456e-401d-9812-76e3af97bacb",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:02.044Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_002643c1-9b33-45d7-89db-f412da16211c",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:01.661Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_12114315-8883-4e8c-9e95-1ce1d9f8b247",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:01.315Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_0bcbc139-359e-4da4-8934-3eac114beca2",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:00.963Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_a6de60e5-26db-43be-9e51-4d58240a7897",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:54:00.621Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_68f7525e-4788-4016-8d66-d19b84f74d9d",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Quick deduction",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:53:59.308Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_1e7951fc-d970-4676-a900-886884a6a712",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 3,
+      "reason": "Superstar",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:53:55.886Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 30,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_b2d3b41b-5713-4cdc-89e0-d4daeed82b88",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 0,
+      "reason": "Unlocked: Consistent",
+      "type": "badge_unlock",
+      "kind": "badge_unlock",
+      "timestamp": "2026-02-15T14:53:49.790Z",
+      "meta": {
+        "eventType": "badge_unlock",
+        "badge": "consistent",
+        "title": "Consistent",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_84607d3b-df7d-4e3b-bca1-5dc3e89b2a64",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 2,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:53:49.790Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_e504c733-c499-4fc8-a982-2115b9b48924",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 0,
+      "reason": "Level 4 reached",
+      "type": "level_up",
+      "kind": "level_up",
+      "timestamp": "2026-02-15T14:53:43.182Z",
+      "meta": {
+        "eventType": "level_up",
+        "fromLevel": 3,
+        "toLevel": 4,
+        "soundCue": "level_up",
+        "highlightMode": "confetti"
+      }
+    },
+    {
+      "id": "evt_4b8eb902-5c85-40c1-bb23-fc61ec9695c9",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 1,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:53:43.182Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_c7c7e902-eaeb-4919-bf0c-087c0ecfaf29",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -2,
+      "reason": "Unsafe Choice",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:53:35.929Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 3,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_9340a302-65fa-4297-b05c-fd312ad685d3",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Late Work",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:53:28.722Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 3,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_13d8db08-384c-43da-8e8a-579756270c15",
+      "studentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "delta": 0,
+      "reason": "Shoutout from Mason Wright: gfhfghgfh ytghfrt435354d dghfghfgh hgffghfghfgh\nfgh\nfgh\nfgh\nfg\nhf\nghfghf",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:51:41.881Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+        "toStudentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_be42b2af-5ba2-4a38-9ac7-ba27ff3ea2a3",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 0,
+      "reason": "Shoutout from Mason Wright: tyrtytryrt y456666546 thhgfghf",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:51:33.770Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+        "toStudentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_36d5060e-313a-4985-8976-5ee72b38d387",
+      "studentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "delta": 0,
+      "reason": "Shoutout from Mason Wright: HEYYYYYYYYYYYYYYYYYYYYYYYY YOOOOO baby",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:51:17.075Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+        "toStudentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_b0e4828f-e356-4fce-9f28-6aff1c3a4a12",
+      "studentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "delta": 0,
+      "reason": "Shoutout from Mason Wright: dfdfdfdfd",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:50:35.008Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+        "toStudentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_1e5d377f-e0e4-4a8c-aecc-a11a6649dfa2",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 0,
+      "reason": "Shoutout from Oliver: dfgdfgdfg",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:45:38.258Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "toStudentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_a6244de2-179b-4e78-9c86-05bf848324bc",
+      "studentId": "stu_6722c2ef-2a6a-4b6a-8fd5-fa9d477525e1",
+      "delta": 0,
+      "reason": "Shoutout from Oliver: dfgfdgdfgfdgfd",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:45:29.123Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "toStudentId": "stu_6722c2ef-2a6a-4b6a-8fd5-fa9d477525e1",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_1da584ce-0744-462b-ae5b-571169d4d950",
+      "studentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "delta": 0,
+      "reason": "Unlocked: Consistent",
+      "type": "badge_unlock",
+      "kind": "badge_unlock",
+      "timestamp": "2026-02-15T14:40:42.073Z",
+      "meta": {
+        "eventType": "badge_unlock",
+        "badge": "consistent",
+        "title": "Consistent",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_42cbc073-ae2a-449c-86ba-698f5ef48fbb",
+      "studentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:40:42.073Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 5,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_61bf035c-57b8-49ab-9892-8f3a57e1c155",
+      "studentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "delta": 0,
+      "reason": "Shoutout from Brian Moniboobiehad: rgdhfgjhfhfhfjfjfjhhjhjjhhj",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:40:31.924Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+        "toStudentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_c81fb8dc-04c5-40f0-85f6-d7e110b83170",
+      "studentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "delta": 0,
+      "reason": "Shoutout from Oliver: poooooooooopy",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:40:10.723Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "toStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_313c8c40-6b14-4fbb-962a-15359400332b",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 0,
+      "reason": "Unlocked: Consistent",
+      "type": "badge_unlock",
+      "kind": "badge_unlock",
+      "timestamp": "2026-02-15T14:39:45.388Z",
+      "meta": {
+        "eventType": "badge_unlock",
+        "badge": "consistent",
+        "title": "Consistent",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_08287ee9-cfd4-43df-ba2b-e0ce640e8383",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:39:45.388Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_f789a19b-5a0a-4abd-973c-4d1f8a4969c9",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:38:46.269Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_bca0dcd5-7735-4c14-a9df-b526e6993ab5",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:38:42.602Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_80294cfd-24eb-40fa-96d0-0bed71f9bf9f",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:38:39.939Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_a26ebeae-8527-48f0-9697-55a10d539a4b",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:38:37.532Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_7e8e5b47-b2b4-41e2-861b-a099f714cdcc",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:38:36.693Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_4fc01387-11fb-45b6-9906-9c500f5f1a04",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:38:32.853Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_5ce7569a-90fc-40fe-acfc-e486cb8c23a9",
+      "studentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "delta": 0,
+      "reason": "Shoutout from Ethan Rivera: Hey dude, wats up, wazzzzzzzzzzzuppppppppppppppppppp",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:38:08.494Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_065840df-bd82-4a0d-9f77-ad885e47442b",
+        "toStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_468fccad-f9fd-41ae-91f4-b3649c7213c6",
+      "studentId": "stu_5bca21dc-1ede-4dfb-8361-37fe5ea7f82f",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:34:20.624Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 12,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_1391375a-e7a9-484b-8fe3-eb87805ef118",
+      "studentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "delta": 0,
+      "reason": "Shoutout from Oliver: He helped me wipe my butt",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:30:56.892Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "toStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_2cf85e56-55e6-42ac-9e1a-193bda77dd0e",
+      "studentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:29:55.442Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 9,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_0b32c094-04e0-4a4a-b705-a61a0665abd5",
+      "studentId": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:29:24.040Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 10,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_ea9f8cb8-a1b6-4c24-9fb1-1a98eecfe799",
+      "studentId": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+      "delta": 1,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:29:18.941Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 10,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_ed0f6ac8-23bc-40ec-9e18-b0e1f5c789b7",
+      "studentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "delta": 0,
+      "reason": "Shoutout from Ella Nguyen: cool kid and I love him",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T14:19:32.010Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+        "toStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_2b6bc751-212f-4340-adcc-ededac504c9a",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": -22,
+      "reason": "Redeemed Snack Coupon",
+      "type": "redeem",
+      "kind": "redeem",
+      "timestamp": "2026-02-15T14:15:09.381Z",
+      "meta": {
+        "eventType": "redeem",
+        "itemType": "standard",
+        "freezeAmount": 0,
+        "soundCue": "redeem",
+        "highlightMode": "none"
+      }
+    },
+    {
+      "id": "evt_e3860cec-4b10-4f63-b85e-351b30bb422d",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 0,
+      "reason": "Streak freeze used",
+      "type": "streak_update",
+      "kind": "streak_update",
+      "timestamp": "2026-02-15T14:03:28.531Z",
+      "meta": {
+        "eventType": "streak_update",
+        "streakCurrent": 4,
+        "consumedFreezes": 1,
+        "soundCue": "streak"
+      }
+    },
+    {
+      "id": "evt_2afa3889-eb6f-4258-b104-d0de6cd521a0",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 0,
+      "reason": "Check-in already recorded",
+      "type": "streak_update",
+      "kind": "streak_update",
+      "timestamp": "2026-02-15T14:03:24.759Z",
+      "meta": {
+        "eventType": "streak_update",
+        "streakCurrent": 4,
+        "consumedFreezes": 0,
+        "reset": false,
+        "soundCue": ""
+      }
+    },
+    {
+      "id": "evt_27be0322-db22-462b-9a33-7f658353e073",
+      "studentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "delta": 2,
+      "reason": "Testing Skill",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:01:41.720Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 5,
+        "streakCurrent": 9,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_5f58a88c-eff7-413f-b31a-88f07d941534",
+      "studentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T14:01:11.710Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 9,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_57a13d76-120c-4e8b-b5c1-dedddf747c27",
+      "studentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "delta": 0,
+      "reason": "Shoutout from Oliver: Helping me with Maths",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T13:54:08.149Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "toStudentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_29370b4e-0374-4546-870e-8331e248feee",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 0,
+      "reason": "Shoutout from Oliver: gffdfgfdg",
+      "type": "shoutout",
+      "kind": "shoutout",
+      "timestamp": "2026-02-15T13:50:38.763Z",
+      "meta": {
+        "eventType": "shoutout",
+        "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+        "toStudentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+        "soundCue": "badge",
+        "highlightMode": "badge"
+      }
+    },
+    {
+      "id": "evt_e46a04be-403f-4c25-a973-90617924f0f9",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T12:37:16.560Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 7,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_8fd585a8-b891-4649-b5c3-63da127f0557",
+      "studentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "delta": -18,
+      "reason": "Redeemed Beanbag Seat",
+      "type": "redeem",
+      "kind": "redeem",
+      "timestamp": "2026-02-15T12:00:13.165Z",
+      "meta": {
+        "eventType": "redeem",
+        "itemType": "standard",
+        "freezeAmount": 0,
+        "soundCue": "redeem",
+        "highlightMode": "none"
+      }
+    },
+    {
+      "id": "evt_afd8f1cf-bc20-45ea-b167-613c90723cb5",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:56:16.865Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 7,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_1381df09-7462-4ed1-8253-22b9bb77aed2",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:56:16.500Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 7,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_9915bc16-a054-4a5d-999c-31ee57bf0c96",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 0,
+      "reason": "Level 7 reached",
+      "type": "level_up",
+      "kind": "level_up",
+      "timestamp": "2026-02-15T11:56:16.086Z",
+      "meta": {
+        "eventType": "level_up",
+        "fromLevel": 6,
+        "toLevel": 7,
+        "soundCue": "level_up",
+        "highlightMode": "confetti"
+      }
+    },
+    {
+      "id": "evt_e0a72b8c-6ba1-471e-b5d1-01f18e0a5e1a",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:56:16.086Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 7,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_5b832146-3f13-4bcc-aa8e-9afaf759e60d",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:56:15.695Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_e2d75c70-0bde-4218-8c46-40f170c04674",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:56:14.973Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_d065656e-650c-400d-9c95-4e720443948b",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Quick bonus",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:56:12.231Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_186691fb-88b3-4436-af73-aa705a8fec9c",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": -1,
+      "reason": "Off Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:45:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 6,
+        "streakCurrent": 23,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_3adcfa46-c09d-4b55-a635-82cfd381482f",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:41:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_a7b332df-9bf9-41c0-b974-9c4adbd3f105",
+      "studentId": "stu_28a8d943-4133-474c-a81c-b9833e2d44cc",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:37:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 16,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_27eb8f36-59b8-4050-b59e-494c3c436ffc",
+      "studentId": "stu_5bca21dc-1ede-4dfb-8361-37fe5ea7f82f",
+      "delta": 1,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:33:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 12,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_d3bca94b-b781-45a1-8988-e5f5770c5d04",
+      "studentId": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:29:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 10,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_a4a30dc5-74a9-4f7a-a498-3e4795f0f311",
+      "studentId": "stu_065840df-bd82-4a0d-9f77-ad885e47442b",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:25:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 9,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_dd6d7541-a86c-420a-9b99-ee8c9f686fdc",
+      "studentId": "stu_aab44dd4-0a62-4b67-b50d-4bbfa0a92d1d",
+      "delta": 1,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:21:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 8,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_7c914d46-1c9b-461a-adf6-d55c0b1201d5",
+      "studentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "delta": -1,
+      "reason": "Late Work",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:17:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 4,
+        "streakCurrent": 7,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_b842357a-0602-4a41-bf76-1f635eef7d34",
+      "studentId": "stu_41c6442c-11d4-4021-8a0d-949e0b3c3ffb",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:13:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 6,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_46163466-711c-46ae-8559-ff711080812a",
+      "studentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "delta": 2,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:09:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 4,
+        "streakCurrent": 6,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_983f59ae-a903-4c0d-bfa3-64d826889f19",
+      "studentId": "stu_6722c2ef-2a6a-4b6a-8fd5-fa9d477525e1",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:05:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 5,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_ba2f8fec-41c4-4d37-ac87-1f101e39fbb9",
+      "studentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T11:01:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 5,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_a9b0b268-5f2b-4807-ba84-f1427e566993",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 1,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:57:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_ce508457-8a25-4346-bb02-eb9a10ddb274",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:53:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_b67bd906-ac5a-4b8d-a319-0207553e95f4",
+      "studentId": "stu_610d7516-bab7-4985-a162-33a57a08d14f",
+      "delta": -1,
+      "reason": "Disruptive",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:49:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 3,
+        "streakCurrent": 3,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_146c70c2-d755-4e88-b33f-6d18b2fa91f5",
+      "studentId": "stu_0cb06b18-0eb3-43ae-a86d-dc4d4b1195bb",
+      "delta": 1,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:45:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 3,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_e12ebe64-2304-4cd4-8381-5463ba21e4d5",
+      "studentId": "stu_e3c59e6f-c5ee-40e5-97c6-bf762d448a95",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:41:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 2,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_aa28c82d-cca8-4985-9f45-260e1c068f9d",
+      "studentId": "stu_3be8a50d-f085-47db-8547-942226395c4c",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:37:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 2,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_2dc61e8b-8dd3-4316-b51c-46793b68a7a2",
+      "studentId": "stu_f98a087a-722d-430f-8c8f-79d1a4de6f75",
+      "delta": 2,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:33:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 2,
+        "streakCurrent": 2,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_7cd3de50-8133-46b4-8f62-364113fc8336",
+      "studentId": "stu_57fd8931-431f-471f-ba8b-479e0eede560",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:29:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 2,
+        "streakCurrent": 1,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_2ca624d9-f498-4748-8b09-88775449490f",
+      "studentId": "stu_560adcd8-962c-409b-936c-f42cc76808c5",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:25:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 2,
+        "streakCurrent": 1,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_f3cffbc8-7d14-44b3-bafd-923ea4af4da1",
+      "studentId": "stu_7806bde3-9770-4590-91e7-138a91c6b685",
+      "delta": -1,
+      "reason": "Off Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:21:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 2,
+        "streakCurrent": 1,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_22cf93b6-17cb-4b07-b77e-7892043fabf5",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:17:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_ff9ce89b-6fd9-4e75-895c-b15f881d268d",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:13:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_83ff8b11-08ef-4cb6-9e5c-4f4b4615fcaa",
+      "studentId": "stu_28a8d943-4133-474c-a81c-b9833e2d44cc",
+      "delta": 1,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:09:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 16,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_29b227c5-4652-425e-bf57-f2db10bdd1e1",
+      "studentId": "stu_5bca21dc-1ede-4dfb-8361-37fe5ea7f82f",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:05:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 12,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_25dad45b-e987-4306-9003-002c83c98421",
+      "studentId": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T10:01:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 10,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_53e74033-a498-4f13-ad72-1548542d219c",
+      "studentId": "stu_065840df-bd82-4a0d-9f77-ad885e47442b",
+      "delta": 2,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:57:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 5,
+        "streakCurrent": 9,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_e44963cb-d2dd-4d80-b40c-ca3ab882fa07",
+      "studentId": "stu_aab44dd4-0a62-4b67-b50d-4bbfa0a92d1d",
+      "delta": -1,
+      "reason": "Late Work",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:53:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 5,
+        "streakCurrent": 8,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_ac3e547c-8d9f-450f-9853-2d485af8c637",
+      "studentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:49:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 7,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_a1f97858-250d-47bd-80e9-029b9ffb2e1d",
+      "studentId": "stu_41c6442c-11d4-4021-8a0d-949e0b3c3ffb",
+      "delta": 1,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:45:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 6,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_85dda6ee-f228-430b-acea-513ad91d6480",
+      "studentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:41:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 6,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_727ac59d-5760-402f-8519-625e15b88ed9",
+      "studentId": "stu_6722c2ef-2a6a-4b6a-8fd5-fa9d477525e1",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:37:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 5,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_c6b94f93-c303-4064-bc1c-79d778f39da6",
+      "studentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "delta": 1,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:33:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 5,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_eb5f9115-5ebe-4591-afda-92f699f6a704",
+      "studentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:29:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 4,
+        "streakCurrent": 4,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_7817d7c1-9b04-445b-9083-4a909cdce7ee",
+      "studentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "delta": -1,
+      "reason": "Disruptive",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:25:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 3,
+        "streakCurrent": 4,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_51251ab5-aba9-4cb4-9d26-07e199bc4687",
+      "studentId": "stu_610d7516-bab7-4985-a162-33a57a08d14f",
+      "delta": 2,
+      "reason": "Teamwork",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:21:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 3,
+        "streakCurrent": 3,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_8ca7d79b-a08c-471e-a80a-35e269c90643",
+      "studentId": "stu_0cb06b18-0eb3-43ae-a86d-dc4d4b1195bb",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:17:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 3,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_d067ee2f-11c9-4847-a508-c8f419557500",
+      "studentId": "stu_e3c59e6f-c5ee-40e5-97c6-bf762d448a95",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:13:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 2,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_cf381293-21ea-4d67-a255-0b893018ab31",
+      "studentId": "stu_3be8a50d-f085-47db-8547-942226395c4c",
+      "delta": 1,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:09:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 3,
+        "streakCurrent": 2,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_a4349241-7a22-4700-b3e4-b368806c46fa",
+      "studentId": "stu_f98a087a-722d-430f-8c8f-79d1a4de6f75",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:05:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 2,
+        "streakCurrent": 2,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_5bf751ca-b89f-453e-847e-397cb7a0a02d",
+      "studentId": "stu_57fd8931-431f-471f-ba8b-479e0eede560",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T09:01:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 2,
+        "streakCurrent": 1,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_8d8a559f-7dc9-4ecc-aadb-5bd927a48aac",
+      "studentId": "stu_560adcd8-962c-409b-936c-f42cc76808c5",
+      "delta": -1,
+      "reason": "Off Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T08:57:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 0,
+        "level": 2,
+        "streakCurrent": 1,
+        "soundCue": "soft_donk",
+        "highlightMode": "warning"
+      }
+    },
+    {
+      "id": "evt_f6d1001f-b3ed-4320-a767-b9c165a42897",
+      "studentId": "stu_7806bde3-9770-4590-91e7-138a91c6b685",
+      "delta": 1,
+      "reason": "Prepared",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T08:53:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 2,
+        "streakCurrent": 1,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_b1808a89-4066-44be-973a-a6362c4ddde5",
+      "studentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "delta": 1,
+      "reason": "On Task",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T08:49:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 23,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_49b85095-7322-4de5-9482-bcb68840006d",
+      "studentId": "stu_7045ed2f-e976-4a64-bc66-6634b258c9f2",
+      "delta": 2,
+      "reason": "Kindness",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T08:45:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 20,
+        "level": 6,
+        "streakCurrent": 18,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_d144f124-561a-4041-ab00-59e0310738b9",
+      "studentId": "stu_28a8d943-4133-474c-a81c-b9833e2d44cc",
+      "delta": 1,
+      "reason": "Leadership",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T08:41:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 6,
+        "streakCurrent": 16,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    },
+    {
+      "id": "evt_97a70777-20b9-4838-9411-af418a32e408",
+      "studentId": "stu_5bca21dc-1ede-4dfb-8361-37fe5ea7f82f",
+      "delta": 1,
+      "reason": "Participation",
+      "type": "points",
+      "kind": "points",
+      "timestamp": "2026-02-15T08:37:28.199Z",
+      "meta": {
+        "eventType": "points",
+        "xpGain": 10,
+        "level": 5,
+        "streakCurrent": 12,
+        "soundCue": "money",
+        "highlightMode": "coin"
+      }
+    }
+  ],
+  "shoutouts": [
+    {
+      "id": "shout_4cad80bc-8315-4218-a24b-5c5ffb78b464",
+      "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "toStudentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "message": "gfhfghgfh ytghfrt435354d dghfghfgh hgffghfghfgh\nfgh\nfgh\nfgh\nfg\nhf\nghfghfgh",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:51:03.602Z",
+      "updatedAt": "2026-02-15T14:51:41.881Z",
+      "reviewedAt": "2026-02-15T14:51:41.881Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_2d1c427d-b2c4-41ca-9bfa-5144a3b156de",
+      "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "toStudentId": "stu_77398a3a-10d0-46c5-b8ef-e091e2f3053c",
+      "message": "tyrtytryrt y456666546 thhgfghf",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:50:55.546Z",
+      "updatedAt": "2026-02-15T14:51:33.770Z",
+      "reviewedAt": "2026-02-15T14:51:33.770Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_57b9ad37-a8a2-4d23-8d68-dc713f5ce625",
+      "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "toStudentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "message": "HEYYYYYYYYYYYYYYYYYYYYYYYY YOOOOO baby",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:50:50.117Z",
+      "updatedAt": "2026-02-15T14:51:17.075Z",
+      "reviewedAt": "2026-02-15T14:51:17.075Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_e13a76a5-a069-416b-9a2e-14c0c031d512",
+      "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "toStudentId": "stu_6722c2ef-2a6a-4b6a-8fd5-fa9d477525e1",
+      "message": "dfgfdgdfgfdgfd",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:45:11.762Z",
+      "updatedAt": "2026-02-15T14:45:29.123Z",
+      "reviewedAt": "2026-02-15T14:45:29.123Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_7f166c7f-eb61-485b-ad5e-495260df01b4",
+      "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "toStudentId": "stu_dd224fd6-4ced-42c3-80c9-90298189e722",
+      "message": "dfgdfgdfg",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:45:02.901Z",
+      "updatedAt": "2026-02-15T14:45:38.258Z",
+      "reviewedAt": "2026-02-15T14:45:38.258Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_97b6bf6d-d4b4-4855-983f-baddb87e266e",
+      "fromStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "toStudentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "message": "dfdfdfdfd",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:42:13.581Z",
+      "updatedAt": "2026-02-15T14:50:35.008Z",
+      "reviewedAt": "2026-02-15T14:50:35.008Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_9fd1a638-4f79-40be-8d68-43f7eecee906",
+      "fromStudentId": "stu_42a3f632-7472-49f2-b772-861ac6b807bd",
+      "toStudentId": "stu_66bb275f-83bf-4799-aae0-698d99fff6c7",
+      "message": "rgdhfgjhfhfhfjfjfjhhjhjjhhj",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:40:27.434Z",
+      "updatedAt": "2026-02-15T14:40:31.924Z",
+      "reviewedAt": "2026-02-15T14:40:31.924Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_105b830c-ca12-4200-b57a-7dd9eac8ca37",
+      "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "toStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "message": "poooooooooopy",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:40:03.326Z",
+      "updatedAt": "2026-02-15T14:40:10.723Z",
+      "reviewedAt": "2026-02-15T14:40:10.723Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_6359698f-b5c1-4e6e-9fbc-cdef5192dccc",
+      "fromStudentId": "stu_065840df-bd82-4a0d-9f77-ad885e47442b",
+      "toStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "message": "Hey dude, wats up, wazzzzzzzzzzzuppppppppppppppppppp",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:35:29.425Z",
+      "updatedAt": "2026-02-15T14:38:08.493Z",
+      "reviewedAt": "2026-02-15T14:38:08.494Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_ac4fb853-d8d3-4e5d-8b03-c9d20c876ac1",
+      "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "toStudentId": "stu_2e555f35-80ef-4dcf-a4d5-25e8b889671e",
+      "message": "He helped me wipe my butt",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:30:43.645Z",
+      "updatedAt": "2026-02-15T14:30:56.892Z",
+      "reviewedAt": "2026-02-15T14:30:56.892Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_f7a9a002-4732-4ff6-b7bc-d8402f784c37",
+      "fromStudentId": "stu_a3ec6efd-c3b9-489f-b62e-f35c0d467afa",
+      "toStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "message": "cool kid and I love him",
+      "status": "approved",
+      "createdAt": "2026-02-15T14:19:20.409Z",
+      "updatedAt": "2026-02-15T14:19:32.010Z",
+      "reviewedAt": "2026-02-15T14:19:32.010Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_19dc6665-3123-49c4-831e-f1bd65245933",
+      "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "toStudentId": "stu_825bfd93-1a38-4919-b6c8-849f45f930dc",
+      "message": "Helping me with Maths",
+      "status": "approved",
+      "createdAt": "2026-02-15T13:53:43.738Z",
+      "updatedAt": "2026-02-15T13:54:08.149Z",
+      "reviewedAt": "2026-02-15T13:54:08.149Z",
+      "reviewedBy": "teacher"
+    },
+    {
+      "id": "shout_4a8e6e70-ccc3-4a63-87d8-de8c74e940a3",
+      "fromStudentId": "stu_7c3dda9f-7fe5-4375-91c1-f9a1395c426f",
+      "toStudentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "message": "gffdfgfdg",
+      "status": "approved",
+      "createdAt": "2026-02-15T13:50:22.933Z",
+      "updatedAt": "2026-02-15T13:50:38.763Z",
+      "reviewedAt": "2026-02-15T13:50:38.763Z",
+      "reviewedBy": "teacher"
+    }
+  ],
+  "seasonHistory": [],
+  "gamification": {
+    "season": {
+      "id": "season_20260215",
+      "name": "Season 1",
+      "startDate": "2026-02-15",
+      "endDate": "2026-03-28",
+      "lengthDays": 42,
+      "isActive": true
+    },
+    "xpRules": {
+      "xpPerPositivePoint": 10,
+      "xpPerNegativePoint": 0,
+      "levelThresholds": [
+        0,
+        50,
+        120,
+        210,
+        320,
+        450,
+        600
+      ]
+    },
+    "streakRules": {
+      "freezeDefaultPerSeason": 1,
+      "freezeStoreCost": 25,
+      "schoolDaysOnly": true
+    },
+    "leaderboard": {
+      "defaultMode": "top",
+      "currentMode": "relative",
+      "focusStudentId": "stu_18105d99-8919-4a1a-bbb5-775a24d31009",
+      "weekStartDay": 1
+    },
+    "rewardsTrack": [
+      {
+        "id": "rw_1",
+        "xpRequired": 60,
+        "title": "Starter",
+        "badge": "starter"
+      },
+      {
+        "id": "rw_2",
+        "xpRequired": 180,
+        "title": "Consistent",
+        "badge": "consistent"
+      },
+      {
+        "id": "rw_3",
+        "xpRequired": 360,
+        "title": "Momentum",
+        "badge": "momentum"
+      },
+      {
+        "id": "rw_4",
+        "xpRequired": 540,
+        "title": "All-Star",
+        "badge": "all_star"
+      }
+    ]
+  },
+  "updatedAt": "2026-02-16T06:12:07.189Z"
+}

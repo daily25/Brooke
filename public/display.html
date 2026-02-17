@@ -1,0 +1,81 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Live Display - Brooke's Classroom</title>
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('brooke_theme');
+          if (theme === 'light' || theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', theme);
+          }
+        } catch {}
+      })();
+    </script>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body class="display-body">
+    <main class="display-shell">
+      <header id="displayHeader" class="display-head">
+        <div>
+          <p class="eyebrow">Live Classroom Board</p>
+          <h1 id="displayClassName">Brooke's Classroom</h1>
+          <p id="displaySeasonLine" class="metric-sub">Season details loading</p>
+        </div>
+        <div class="display-controls">
+          <p id="displayConnection" class="pill offline">Connecting</p>
+          <button id="themeToggleBtn" class="ghost-button" type="button">Light Mode</button>
+          <button id="enableSoundBtn" class="primary-button compact" type="button">Enable Sound</button>
+        </div>
+      </header>
+
+      <section class="display-layout">
+        <div class="display-main">
+          <section id="studentsSection" class="panel display-panel">
+            <h2>Class Points</h2>
+            <div id="displayStudents" class="display-students-grid"></div>
+          </section>
+        </div>
+
+        <aside class="display-side">
+          <section id="activitySection" class="panel display-panel">
+            <h2>Recent Activity</h2>
+            <div id="displayEvents" class="events-feed"></div>
+          </section>
+        </aside>
+      </section>
+    </main>
+
+    <footer id="displayFooter" class="view-footer">
+      <nav class="view-footer-nav" aria-label="Quick navigation">
+        <a class="view-nav-link" href="/display" aria-current="page">Home</a>
+        <a class="view-nav-link" href="/display-store">Store</a>
+        <a class="view-nav-link" href="/display-leaderboards">Leaderboards</a>
+      </nav>
+    </footer>
+
+    <div id="eventOverlay" class="event-overlay hidden" aria-live="polite" aria-atomic="true">
+      <article id="eventOverlayPanel" class="event-overlay-panel">
+        <p id="eventOverlayEyebrow" class="eyebrow">Live Moment</p>
+        <h2 id="eventOverlayTitle" class="event-overlay-title">Great Job</h2>
+        <div id="eventOverlayParticipants" class="event-overlay-participants hidden">
+          <div class="overlay-participant">
+            <div id="eventOverlayFromAvatar" class="overlay-participant-avatar"></div>
+            <p id="eventOverlayFromName" class="overlay-participant-name">Sender</p>
+          </div>
+          <p class="overlay-participant-arrow">➡️</p>
+          <div class="overlay-participant">
+            <div id="eventOverlayToAvatar" class="overlay-participant-avatar"></div>
+            <p id="eventOverlayToName" class="overlay-participant-name">Receiver</p>
+          </div>
+        </div>
+        <p id="eventOverlayValue" class="event-overlay-value">+1</p>
+        <p id="eventOverlayDetail" class="event-overlay-detail"></p>
+      </article>
+    </div>
+
+    <script type="module" src="/display.js"></script>
+  </body>
+</html>

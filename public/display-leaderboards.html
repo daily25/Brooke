@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Leaderboards - Brooke's Classroom</title>
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('brooke_theme');
+          if (theme === 'light' || theme === 'dark') {
+            document.documentElement.setAttribute('data-theme', theme);
+          }
+        } catch {}
+      })();
+    </script>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body class="display-body">
+    <main class="display-shell">
+      <header id="displayHeader" class="display-head">
+        <div>
+          <p class="eyebrow">Live Classroom Board</p>
+          <h1 id="displayClassName">Brooke's Classroom</h1>
+          <p id="displayLeaderboardLine" class="metric-sub">Leaderboard view</p>
+        </div>
+        <div class="display-controls">
+          <p id="displayConnection" class="pill offline">Connecting</p>
+          <button id="themeToggleBtn" class="ghost-button" type="button">Light Mode</button>
+        </div>
+      </header>
+
+      <section class="display-stack-layout">
+        <section class="leaderboards-grid">
+          <article id="boardTopPointsPanel" class="panel display-panel leaderboard-panel">
+            <h2>Top Points</h2>
+            <div id="boardTopPoints" class="leaderboard-list"></div>
+          </article>
+
+          <article id="boardMovementPanel" class="panel display-panel leaderboard-panel">
+            <h2>Weekly Movement</h2>
+            <div id="boardMovement" class="leaderboard-list"></div>
+          </article>
+
+          <article id="boardStreakPanel" class="panel display-panel leaderboard-panel">
+            <h2>Current Streak</h2>
+            <div id="boardStreak" class="leaderboard-list"></div>
+          </article>
+
+          <article id="boardLevelPanel" class="panel display-panel leaderboard-panel">
+            <h2>Level And XP</h2>
+            <div id="boardLevel" class="leaderboard-list"></div>
+          </article>
+        </section>
+      </section>
+    </main>
+
+    <footer id="displayFooter" class="view-footer">
+      <nav class="view-footer-nav" aria-label="Quick navigation">
+        <a class="view-nav-link" href="/display">Home</a>
+        <a class="view-nav-link" href="/display-store">Store</a>
+        <a class="view-nav-link" href="/display-leaderboards" aria-current="page">Leaderboards</a>
+      </nav>
+    </footer>
+
+    <script type="module" src="/display-leaderboards.js"></script>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+{
+  "name": "brookes-classroom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Classroom points app with teacher controls and live display sync.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
