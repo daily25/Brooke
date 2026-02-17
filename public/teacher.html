@@ -83,21 +83,6 @@
       </section>
 
       <section class="panel teacher-view-section" data-teacher-tab="settings">
-        <h2>View Visibility Controls</h2>
-        <p class="mini-empty">Enable or disable what is shown on display boards and student pages in real time.</p>
-        <div class="view-settings-columns">
-          <div>
-            <h3>Display Views</h3>
-            <div id="displayVisibilityList" class="toggle-list"></div>
-          </div>
-          <div>
-            <h3>Student Pages</h3>
-            <div id="studentVisibilityList" class="toggle-list"></div>
-          </div>
-        </div>
-      </section>
-
-      <section class="panel teacher-view-section" data-teacher-tab="settings">
         <h2>Add Student</h2>
         <form id="studentForm" class="stack-form">
           <label>
@@ -110,6 +95,45 @@
           </label>
           <button type="submit" class="primary-button">Add Student</button>
         </form>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>Skill Library</h2>
+        <form id="skillForm" class="skill-form">
+          <select id="skillTypeInput" name="skillType">
+            <option value="positive">Positive</option>
+            <option value="negative">Needs Work</option>
+          </select>
+          <input id="skillLabelInput" name="skillLabel" type="text" maxlength="36" placeholder="Skill name" required>
+          <input id="skillPointsInput" name="skillPoints" type="number" min="-10" max="10" step="1" placeholder="Points" required>
+          <input id="skillIconInput" name="skillIcon" type="text" maxlength="4" placeholder="Icon">
+          <button type="submit" class="primary-button">Add Skill</button>
+        </form>
+        <div class="skill-columns">
+          <div>
+            <h3>Positive</h3>
+            <div id="positiveSkillList" class="token-list"></div>
+          </div>
+          <div>
+            <h3>Needs Work</h3>
+            <div id="negativeSkillList" class="token-list"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel teacher-view-section" data-teacher-tab="settings">
+        <h2>View Visibility Controls</h2>
+        <p class="mini-empty">Enable or disable what is shown on display boards and student pages in real time.</p>
+        <div class="view-settings-columns">
+          <div>
+            <h3>Display Views</h3>
+            <div id="displayVisibilityList" class="toggle-list"></div>
+          </div>
+          <div>
+            <h3>Student Pages</h3>
+            <div id="studentVisibilityList" class="toggle-list"></div>
+          </div>
+        </div>
       </section>
 
       <section class="panel teacher-view-section" data-teacher-tab="home">
@@ -143,30 +167,6 @@
           </select>
         </div>
         <div id="shoutoutQueue" class="history-list"></div>
-      </section>
-
-      <section class="panel teacher-view-section" data-teacher-tab="settings">
-        <h2>Skill Library</h2>
-        <form id="skillForm" class="skill-form">
-          <select id="skillTypeInput" name="skillType">
-            <option value="positive">Positive</option>
-            <option value="negative">Needs Work</option>
-          </select>
-          <input id="skillLabelInput" name="skillLabel" type="text" maxlength="36" placeholder="Skill name" required>
-          <input id="skillPointsInput" name="skillPoints" type="number" min="-10" max="10" step="1" placeholder="Points" required>
-          <input id="skillIconInput" name="skillIcon" type="text" maxlength="4" placeholder="Icon">
-          <button type="submit" class="primary-button">Add Skill</button>
-        </form>
-        <div class="skill-columns">
-          <div>
-            <h3>Positive</h3>
-            <div id="positiveSkillList" class="token-list"></div>
-          </div>
-          <div>
-            <h3>Needs Work</h3>
-            <div id="negativeSkillList" class="token-list"></div>
-          </div>
-        </div>
       </section>
 
       <section class="panel teacher-view-section" data-teacher-tab="store">
